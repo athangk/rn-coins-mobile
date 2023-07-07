@@ -1,9 +1,9 @@
 
 ### Coinency.
 A demo mobile app. Provides the ability to select and sort coins, so they can be tracked and displayed  in charts.
-<img width="240" src="https://github.com/athangk/rn-coins-mobile/blob/main/assets/coinency_first_a.png">
-<img width="240" src="https://github.com/athangk/rn-coins-mobile/blob/main/assets/coinency_third.png">
-<img width="240" src="https://github.com/athangk/rn-coins-mobile/blob/main/assets/coinency_fourth.png">
+<img width="240" height="512" src="https://github.com/athangk/rn-coins-mobile/blob/main/assets/coinency_first_a.png">
+<img width="240" height="512" src="https://github.com/athangk/rn-coins-mobile/blob/main/assets/coinency_third.png">
+<img width="240" height="512" src="https://github.com/athangk/rn-coins-mobile/blob/main/assets/coinency_fourth.png">
 ##
 <p>React native expo with typescript.</p>
 <br>
