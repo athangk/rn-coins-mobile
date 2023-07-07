@@ -13,15 +13,16 @@ A demo mobile app. Provides the user to select and sort coins that he wishes to 
  <img width="500" src="https://github.com/athangk/rn-coins-mobile/blob/main/assets/2_rne.gif">
   </p>
 
-#### Change order of tracks and show charts part a
+#### Add tracks and display of drawer
   <p float=left>
 <img width="500" src="https://github.com/athangk/rn-coins-mobile/blob/main/assets/3_rne.gif">
   </p>
 
-  #### Change order of tracks and show charts part b
+  #### Change order of tracks and show charts part a
   <p>
  <img width="500" src="https://github.com/athangk/rn-coins-mobile/blob/main/assets/4_rne.gif">
   </p>
+#### Change order of tracks and show charts part b
     <p>
  <img width="500" src="https://github.com/athangk/rn-coins-mobile/blob/main/assets/5_rne.gif">
   </p>
