@@ -1,6 +1,6 @@
 
 ### Coinency.
-A demo mobile app. Provides the ability to select and sort coins, so they can tracked and displayed  in charts.
+A demo mobile app. Provides the ability to select and sort coins, so they can be tracked and displayed  in charts.
 ##
 <p>React native expo with typescript.</p>
 <br>
