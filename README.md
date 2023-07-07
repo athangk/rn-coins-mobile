@@ -42,14 +42,14 @@ A demo mobile app. Provides the ability to select and sort coins, so they can be
 
 </br>
 
-  #### Display selected tracked coins on charts
+  #### Display selected tracked coins in charts
 
  <img width="650" src="https://github.com/athangk/rn-coins-mobile/blob/main/assets/4_rne.gif">
 
   
   </br>
   
-#### Change order of tracks and show charts 
+#### Drag to change order of tracks, and show them in charts 
      
 <img width="650" src="https://github.com/athangk/rn-coins-mobile/blob/main/assets/5_rne.gif">
 
