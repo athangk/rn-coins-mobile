@@ -49,7 +49,7 @@ A demo mobile app. Provides the user to select and sort coins that he wishes to 
   </br>
   
 #### Change order of tracks and show charts 
-     <p><img width="650" src="https://github.com/athangk/rn-coins-mobile/blob/main/assets/5_rne.gif">
-  </p>
+     <p>
+<img width="650" src="https://github.com/athangk/rn-coins-mobile/blob/main/assets/5_rne.gif"></p>
 
 
