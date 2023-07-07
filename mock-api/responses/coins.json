@@ -1,0 +1,66 @@
+[
+  {
+    "id": "a coin",
+    "name": "a coin",
+    "price": 0.9,
+    "equivalentValue": "a coin",
+    "date": "13/07/23",
+    "key": "a_coin"
+  },
+  {
+    "id": "b coin",
+    "name": "b coin",
+    "price": 1,
+    "equivalentValue": "a coin",
+    "date": "13/07/23",
+    "key": "b_coin"
+  },
+  {
+    "id": "c coin",
+    "name": "c coin",
+    "price": 12,
+    "equivalentValue": "a coin",
+    "date": "13/07/23",
+    "key": "c_coin"
+  },
+  {
+    "id": "d coin",
+    "name": "d coin",
+    "price": 1.2,
+    "equivalentValue": "a coin",
+    "date": "13/07/23",
+    "key": "d_coin"
+  },
+  {
+    "id": "e coin",
+    "name": "e coin",
+    "price": 0.9,
+    "equivalentValue": "a coin",
+    "date": "13/07/23",
+    "key": "e_coin"
+  },
+  {
+    "id": "f coin",
+    "name": "f coin",
+    "price": 1,
+    "equivalentValue": "a coin",
+    "date": "13/07/23",
+    "key": "f_coin"
+  },
+  {
+    "id": "g coin",
+    "name": "g coin",
+    "price": 12,
+    "equivalentValue": "a coin",
+    "date": "13/07/23",
+    "key": "g_coin"
+  },
+  {
+    "id": "h coin",
+    "name": "h coin",
+    "price": 1.2,
+    "equivalentValue": "a coin",
+    "date": "13/07/23",
+    "key": "h_coin"
+  }
+]

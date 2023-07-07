@@ -1,0 +1,8 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true
+  },
+  "include": ["assets/*", "components/*", "src/types/*"],
+  "exclude": ["__tests__/**/*-test.ts"]
+}

@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "currency-app",
+    "slug": "currency-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/coinencySmallSquare.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/splashCoinsCircles.png",
+      "resizeMode": "cover"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/coinencySmallSquare.png",
+        "backgroundColor": "#290038"
+      }
+    }
+  }
+}
