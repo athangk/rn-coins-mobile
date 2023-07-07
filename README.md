@@ -9,5 +9,6 @@ A demo mobile app. Provides the user to select and sort coins that he wishes to 
 
 #### Login fail/success and  Remember me
 <p float=left>
-<img src="https://github.com/athangk/rn-coins-mobile/blob/main/assets/1_rne.gif">
+<img width="400" src="https://github.com/athangk/rn-coins-mobile/blob/main/assets/1_rne.gif">
+ <img width="400" src="https://github.com/athangk/rn-coins-mobile/blob/main/assets/2_rne.gif">
   </p>
