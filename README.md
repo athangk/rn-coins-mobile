@@ -37,7 +37,7 @@ A demo mobile app. Provides the ability to select and sort coins, so they can be
   
 </br>
 
-#### Add tracks and display of drawer
+#### Add tracks and display of drawer nested navigator
  
 <img width="650" src="https://github.com/athangk/rn-coins-mobile/blob/main/assets/3_rne.gif">
 
